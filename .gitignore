@@ -1,0 +1,9 @@
+/build/
+/dist/
+/test/build/
+/src/glassbar_tap.asm
+/src/glassbar_tap.def
+/tools/
+*.obj
+*.dll
+*.exe
